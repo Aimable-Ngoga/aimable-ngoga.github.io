@@ -382,7 +382,7 @@ h2 {
     height: 650px;
     position: absolute;
     right: 50%;
-    margin-right: 530px;
+    margin-right: 550px;
     top: 2700px; 
 }
 .div2{
@@ -776,4 +776,9 @@ margin-right: 50px;
         margin-left: 700px;
         font-size: medium;
         margin-top: 1px;
+    }
+    .slick-track{
+         width: 4644px; 
+         opacity: 1px; 
+         transform: translate3d(-516px, 0px, 0px);
     }
