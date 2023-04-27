@@ -782,3 +782,7 @@ margin-right: 50px;
          opacity: 1px; 
          transform: translate3d(-516px, 0px, 0px);
     }
+    .slick{
+        display: block;
+    }
+    
