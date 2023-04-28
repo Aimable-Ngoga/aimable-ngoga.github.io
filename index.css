@@ -776,6 +776,8 @@ margin-right: 50px;
         margin-left: 700px;
         font-size: medium;
         margin-top: 1px;
+        width: 10px;
+        height: 10px;
     }
     .slick-track{
          width: 4644px; 
