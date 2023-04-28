@@ -788,7 +788,7 @@ margin-right: 50px;
     }
     .dark-2{
         background: rgba(212, 212, 12, 0.685);
-        width: 300px;
+        width: 200px;
         height: 100px;
         color: rgba(0, 0, 0, 0.945);
         cursor: pointer;
@@ -825,5 +825,7 @@ margin-right: 50px;
     .hadow{
         width: 300px;
         height: 300px;
+        margin-top: 50px;
+        margin-right: 20px;
     }
     
