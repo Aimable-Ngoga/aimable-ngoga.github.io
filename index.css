@@ -808,4 +808,22 @@ margin-right: 50px;
         margin-left: 330px;
         font-size: 50px; 
     }
+    .mary{
+        display:  flex;
+        flex-direction: row;
+        width: 1200px;
+        justify-content: space-between;
+        margin-bottom: 100px;
+    }
+    .fastart{
+        display:  flex;
+        flex-direction: row;
+        width: 1200px;
+        justify-content: space-between;
+        margin-bottom: 100px; 
+    }
+    .hadow{
+        width: 300px;
+        height: 300px;
+    }
     
