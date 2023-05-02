@@ -786,9 +786,6 @@ margin-right: 50px;
     .slick{
         display: block;
     }
-    .-testimonial{
-        justify-content: space-between;
-    }
     .dark-2{
         background: rgba(212, 212, 12, 0.685);
         width: 110px;
@@ -810,6 +807,10 @@ margin-right: 50px;
         font-weight: bold;
         margin-left: 330px;
         font-size: 50px; 
+    }
+    .-container{
+        display: flex;
+        justify-content: center;
     }
     .mary{
         display:  flex;
