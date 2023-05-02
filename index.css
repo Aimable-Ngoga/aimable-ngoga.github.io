@@ -381,8 +381,8 @@ h2 {
     border-left: 3px solid  rgba(230, 230, 8, 0.877);
     height: 650px;
     position: absolute;
-    right: 50%;
-    margin-right: 550px;
+    right: 70%;
+    margin-right: 570px;
     top: 2700px; 
 }
 .div2{
@@ -834,8 +834,8 @@ margin-right: 50px;
     .low{
         display:  flex;
         flex-direction: row;
-        width: 120px;
+        width: 1200px;
         justify-content: space-between;
-        margin-bottom: 100px; 
+        margin-bottom: 100px;
     }
 
