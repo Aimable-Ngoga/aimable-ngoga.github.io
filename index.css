@@ -808,11 +808,6 @@ margin-right: 50px;
         margin-left: 330px;
         font-size: 50px; 
     }
-    .yadow{
-        margin-bottom: 70px;
-        width: 70px;
-        height: 70px;
-    }
     .low{
         display:  flex;
         flex-direction: row;
@@ -827,12 +822,10 @@ margin-right: 50px;
         justify-content: space-between;
         margin-bottom: 100px;
     }
-    .rol{
-        display:  flex;
-        flex-direction: row;
-        width: 1200px;
-        justify-content: space-between;
-        margin-bottom: 100px; 
+    .yadow{
+        margin-bottom: 70px;
+        width: 70px;
+        height: 70px;
     }
     .kadow{
         
