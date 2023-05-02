@@ -825,6 +825,10 @@ margin-right: 50px;
         justify-content: space-between;
         margin-bottom: 100px; 
     }
+    .yadow{
+        font-size: 50px;
+        margin-top: 70px;
+    }
     .low{
         display:  flex;
         flex-direction: row;
