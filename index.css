@@ -825,4 +825,11 @@ margin-right: 50px;
         justify-content: space-between;
         margin-bottom: 100px; 
     }
+    .low{
+        display:  flex;
+        flex-direction: row;
+        width: 120px;
+        justify-content: space-between;
+        margin-bottom: 100px; 
+    }
 
