@@ -825,6 +825,13 @@ margin-right: 50px;
         flex-direction: row;
         width: 1200px;
         justify-content: space-between;
+        margin-bottom: 100px;
+    }
+    .rol{
+        display:  flex;
+        flex-direction: row;
+        width: 1200px;
+        justify-content: space-between;
         margin-bottom: 100px; 
     }
     .kadow{
