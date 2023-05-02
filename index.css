@@ -809,10 +809,9 @@ margin-right: 50px;
         font-size: 50px; 
     }
     .yadow{
-        font-size: 50px;
-        margin-top: 70px;
-        width: 50px;
-        height: 50px;
+        margin-bottom: 70px;
+        width: 70px;
+        height: 70px;
     }
     .low{
         display:  flex;
@@ -827,5 +826,11 @@ margin-right: 50px;
         width: 1200px;
         justify-content: space-between;
         margin-bottom: 100px; 
+    }
+    .kadow{
+        
+        margin-bottom: 70px;
+        width: 70px;
+        height: 70px;
     }
 
