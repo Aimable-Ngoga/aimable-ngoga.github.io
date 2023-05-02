@@ -786,6 +786,9 @@ margin-right: 50px;
     .slick{
         display: block;
     }
+    .-container{
+        justify-content: space-between;
+    }
     .dark-2{
         background: rgba(212, 212, 12, 0.685);
         width: 200px;
