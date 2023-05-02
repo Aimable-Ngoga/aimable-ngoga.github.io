@@ -808,20 +808,6 @@ margin-right: 50px;
         margin-left: 330px;
         font-size: 50px; 
     }
-    .mary{
-        display:  flex;
-        flex-direction: row;
-        width: 120px;
-        justify-content: space-between;
-        margin-bottom: 100px;
-    }
-    .fastart{
-        display:  flex;
-        flex-direction: row;
-        width: 120px;
-        justify-content: space-between;
-        margin-bottom: 100px; 
-    }
     .yadow{
         font-size: 50px;
         margin-top: 70px;
