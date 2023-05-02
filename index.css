@@ -381,15 +381,15 @@ h2 {
     border-left: 3px solid  rgba(230, 230, 8, 0.877);
     height: 650px;
     position: absolute;
-    right: 70%;
-    margin-right: 570px;
+    right: 50%;
+    margin-right: 550px;
     top: 2700px; 
 }
 .div2{
     border-left: 3px solid  rgba(230, 230, 8, 0.877);
     height: 650px;
     position: absolute;
-    left: 50%;
+    left: 60%;
     margin-left:  10px;
     top: 2700px; 
 }
@@ -820,5 +820,12 @@ margin-right: 50px;
         width: 1200px;
         justify-content: space-between;
         margin-bottom: 100px;
+    }
+    .rol{
+        display:  flex;
+        flex-direction: row;
+        width: 1200px;
+        justify-content: space-between;
+        margin-bottom: 100px; 
     }
 
