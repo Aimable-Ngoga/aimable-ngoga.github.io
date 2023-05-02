@@ -808,10 +808,6 @@ margin-right: 50px;
         margin-left: 330px;
         font-size: 50px; 
     }
-    .-container{
-        display: flex;
-        justify-content: center;
-    }
     .mary{
         display:  flex;
         flex-direction: row;
