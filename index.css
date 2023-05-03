@@ -389,7 +389,7 @@ h2 {
     border-left: 3px solid  rgba(230, 230, 8, 0.877);
     height: 650px;
     position: absolute;
-    left: 60%;
+    left: 40%;
     margin-left:  10px;
     top: 2700px; 
 }
@@ -463,10 +463,10 @@ h2 {
 
 }
 .border{
-display: flex;
-flex-direction: column;
-justify-content: space-around;
-margin-bottom: 200px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+    margin-bottom: 200px;
 }
 .pbar{
     width: 300px;
@@ -824,13 +824,13 @@ margin-right: 50px;
     }
     .yadow{
         margin-bottom: 70px;
-        width: 70px;
-        height: 70px;
+        width: 100px;
+        height: 100px;
     }
     .kadow{
         
         margin-bottom: 70px;
-        width: 70px;
-        height: 70px;
+        width: 100px;
+        height: 100px;
     }
 
