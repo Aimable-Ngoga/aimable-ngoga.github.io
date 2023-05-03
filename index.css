@@ -24,7 +24,7 @@ html {
     margin-top: 5px;
 }
 .abatu{
-    margin-left: 490px;
+    margin-left: 450px;
     font-weight: 500px;
     margin-top: 1px;
 }
@@ -389,7 +389,7 @@ h2 {
     border-left: 3px solid  rgba(230, 230, 8, 0.877);
     height: 650px;
     position: absolute;
-    left: 90%;
+    left: 10%;
     margin-left:  5px;
     top: 2700px; 
 }
