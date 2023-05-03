@@ -814,6 +814,7 @@ margin-right: 50px;
         width: 1200px;
         justify-content: space-between;
         margin-bottom: 100px;
+        margin-right: 50px;
     }
     .rol{
         display:  flex;
@@ -821,6 +822,7 @@ margin-right: 50px;
         width: 1200px;
         justify-content: space-between;
         margin-bottom: 100px;
+        margin-left: 50px;
     }
     .yadow{
         margin-bottom: 70px;
